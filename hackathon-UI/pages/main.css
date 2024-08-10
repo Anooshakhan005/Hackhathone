@@ -1,0 +1,181 @@
+
+#container {
+        margin: 0%;
+        padding: 0%;
+}
+
+#navbar {
+        background-color: #0d6db7;
+        height: 165px;
+        border-radius: 15px;
+        margin: 0%;
+        padding: 0%;
+        display: flex;
+        align-items: center;
+
+}
+
+#navlogo {
+        height: 142px;
+        width: 200px;
+        margin: 12px;
+        padding-left: 60px;
+        border-radius: 18px;
+        /* margin-bottom: 0px; */
+
+}
+#nav-text {
+        margin-left: 50px;
+        margin-top:40px ;
+        margin-right: 50px;
+        font-size: 45px;
+        /* color: #8dc63f; */
+        /* padding: 30px; */
+
+}
+#registration {
+        background-color: white;
+        height: 40px;
+        width: 150px;
+        border-radius: 8px;
+        border-style: groove;
+        border-color: #0d6db7;
+        font-style: oblique;
+        font-weight: 600;
+        margin-top: 100px;
+        transition: background-color 0.3s ease;
+        cursor: pointer; 
+    }
+    #registration:hover {
+        background-color: #0d6db7; 
+        color: white;
+    }
+    #download:hover {
+        background-color: #0d6db7; 
+        color: white;
+    }
+
+
+#download{
+        background-color: white;
+        height: 40px;
+        width: 150px;
+        border-radius: 8px;
+        border-style: groove;
+        border-color: #0d6db7;
+       font-style: oblique;
+       font-weight: 600;
+       margin-top: 100px;
+       transition: background-color 0.3s ease;
+       cursor: pointer;
+}
+
+#result:hover {
+        background-color: #0d6db7; 
+        color: white;
+    }
+#result{
+        background-color: white;
+        height: 40px;
+        width: 150px;
+        border-radius: 8px;
+        border-style: groove;
+        border-color: #0d6db7;
+       font-style: oblique;
+       font-weight: 600;
+       margin-top: 100px;
+       transition: background-color 0.3s ease;
+       cursor: pointer;
+}
+
+ .background-video {
+        max-width: 120%; /* Increase the max width */
+        max-height: 100%;
+        object-fit: cover;
+}
+ 
+    .background-video {
+        display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 400px; 
+    width: 100%;
+    }   
+
+    .content {
+        display: flex; 
+        align-items: flex-start; 
+    }
+    
+    .custom-video {
+        margin-right: 20px; 
+        margin-left:70px ;
+        max-width: 35%;
+    }
+    
+    .text-content {
+        max-width: 45%;
+        text-align: right; 
+    }
+
+    
+#picture{
+        display: flex;
+}
+
+#img1{
+       height: 250px;
+       margin:  10px 50px 8px  50px;
+       border-radius: 20px;
+}
+#img2{
+        height: 250px;
+        margin:  10px 50px 8px  30px;
+       border-radius: 20px;
+}
+#img3{
+        height: 250px;
+        margin:  10px 50px 8px  0px;
+       border-radius: 20px;
+       width: 330px;
+}
+#footer {
+        
+        display: flex;
+        padding: 0px 20px 0px 100px;
+        margin-top: 12px;
+
+
+}
+
+#saylani {
+        background-color: black;
+        height: 100px;
+        border-radius: 50px;
+        border-color: #0d6db7;
+}
+
+#fb_logo {
+        height: 30px;
+        /* margin-left: 30px; */
+        margin: 0px 0px 0px 170px;
+        cursor: pointer;
+
+}
+
+#insta-logo {
+        height: 25px;
+        margin: 0px 0px 0px 80px;
+        cursor: pointer;
+}
+
+#youtube-logo {
+        height: 35px;
+        margin: 0px 0px 0px 80px;
+        cursor: pointer;
+}
+#copy{
+        height: 100px;
+        margin: 28px 0px 0px 80px;
+        
+}

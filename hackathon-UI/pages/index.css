@@ -1,0 +1,28 @@
+
+#smit-logo{
+    width: 400px;
+    margin: 50px 0px 0px 455px;
+
+}
+#signup{
+    margin: 3px 0px 0px 525px;
+    width: 300px;
+    height: 35px;
+    background-color: #0d6db7;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    border-width: 0px;
+    cursor: pointer;
+}
+#login{
+    margin: 5px 0px 0px 525px;
+    width: 300px;
+    height: 35px;
+    background-color: #0d6db7;
+    border-radius: 20px;
+    font-weight: bold;  
+    color: white;
+    border-width: 0px;
+    cursor: pointer;
+}

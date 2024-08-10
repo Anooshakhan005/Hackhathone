@@ -1,0 +1,37 @@
+#container{
+    justify-content: center;
+    align-items: center;
+}
+
+#smit-logo{
+    width: 400px;
+    margin: 20px 0px 0px 455px;
+
+}
+.id-card{
+    height: 40px;
+    width: 400px;
+    border-radius: 7px;
+    border-width:3px;
+    border-style: ridge;
+    border-color: #8dc63f;
+   
+    
+}
+#id-card{
+    margin: 0px 150px 5px 300px;
+    font-style: oblique;
+        font-weight: 600;
+        font-size: x-large;
+}
+#download{
+    margin: 20px 0px 0px 500px;
+    width: 400px;
+    height: 35px;
+    background-color: #0d6db7;
+    border-radius: 20px;
+    font-weight: bold;  
+    color: white;
+    border-width: 0px;
+    cursor: pointer;
+}

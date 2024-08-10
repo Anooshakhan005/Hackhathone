@@ -1,0 +1,113 @@
+#main{
+    margin: 0%;
+    padding: 0%;
+    /* display: flex; */
+    
+}
+
+#container{
+
+   background-color: #c63f3f;
+   border-radius: 10px;
+   padding: 3px 10px 0px 100px;
+   height: 800px;
+   
+   
+}
+.container1{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.container3{
+    display: flex;
+}
+#input-name{
+    height: 25px;
+    width: 180px;
+    border-radius: 7px;
+    border-width:3px;
+    border-style: ridge;
+    border-color: #8dc63f;
+    margin: 10px 150px 5px 0px;
+}
+#father-name{
+    height: 25px;
+    width: 180px;
+    border-radius: 7px;
+    border-width:3px;
+    border-style: ridge;
+    border-color: #8dc63f;
+    margin: 10px 50px 5px 0px;
+}
+#email{
+    height: 25px;
+    width: 280px;
+    border-radius: 7px;
+    border-width:3px;
+    border-style: ridge;
+    border-color: #8dc63f;
+    margin: 10px 50px 5px 0px;
+}
+#phone{
+    height: 25px;
+    width: 180px;
+    border-radius: 7px;
+    border-width:3px;
+    border-style: ridge;
+    border-color: #8dc63f;
+    margin: 10px 50px 5px 0px;
+}
+#DOB{
+    height: 25px;
+    width: 180px;
+    border-radius: 7px;
+    border-width:3px;
+    border-style: ridge;
+    border-color: #8dc63f;
+    margin: 10px 50px 5px 0px;
+   
+}
+.container3 {
+    display: flex;
+    align-items: center; /* Align items vertically center */
+}
+
+.DOB {
+    display: flex;
+    align-items: center; 
+}
+
+#gender{
+    height: 25px;
+    width: 350px;
+    margin: 10px 50px 5px 100px;
+     
+}
+.container {
+    margin-bottom: 15px;
+}
+
+.container label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.container select {
+    height: 30px;
+    width: 100%;
+    max-width: 300px; /* Max width for better layout on larger screens */
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.container select:focus {
+    border-color: #0d6db7;
+    outline: none;
+}
